@@ -63,5 +63,5 @@ int TicTacToe::positionValue()const
 
 int TicTacToe::chooseMove(Side s, int & bestRow, int & bestColumn)
 {
-    
+    cout<<"hello";
 }
